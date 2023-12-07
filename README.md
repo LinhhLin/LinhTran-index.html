@@ -1,2 +1,2 @@
-# LinhTran-s-Website-
+LinhTran-s-Website-
 This is my personal website.
